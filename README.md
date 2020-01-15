@@ -1,2 +1,2 @@
-# pylotto
-python lotto 1.1
+#pylotto
+python lotto 0.1
