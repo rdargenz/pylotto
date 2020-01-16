@@ -1,2 +1,2 @@
 #pylotto
-python lotto 0.1
+python lotto 0.4
